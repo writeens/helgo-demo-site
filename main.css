@@ -396,6 +396,11 @@
     display: flex;
     flex-direction: row;
 }
+.layer5-brands > div {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
 .layer5-brands > .col > img {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
@@ -430,6 +435,9 @@
     flex-direction: row;
     justify-content: space-between;
     width: 75vw;
+}
+.arrows > div > i {
+    color: #ef5181;
 }
 
 /*Layer 7*/
